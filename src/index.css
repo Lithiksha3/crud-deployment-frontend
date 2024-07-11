@@ -1,0 +1,23 @@
+.logo {
+    width: 3rem;
+    margin-right: 2rem;
+    margin-left: 1.5rem;
+}
+
+html, .container-fluid {
+    background-image: linear-gradient(to left, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+}
+
+.link-tag {
+    color: white;
+}
+
+.user-logo {
+    width: 7rem;
+    margin-left: 43%;
+    margin-bottom: 10px;
+}
+
+.photo {
+    height: 150px;
+}
